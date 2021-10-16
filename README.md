@@ -1,8 +1,8 @@
 #### Hi, i'm Beatriz Silva.. 👋
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando React Native  
-- 😄 Pronouns: dela/ela
+- 🔭 I work with front-end.
+- 🌱 I'm studying Computer Science and I'm also studying React Native.  
+- 😄 Pronouns: Her/She.
 
 <div align="center">
   <a href="https://github.com/beatrizssouza">
