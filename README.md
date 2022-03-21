@@ -1,7 +1,7 @@
 #### Hi, i'm Beatriz Silva.. 👋
 
 - 🔭 I work with front-end.
-- 🌱 I'm studying Computer Science and I'm also studying React Native.  
+- 🌱 I'm studying Computer Science and I'm also studying Flutter.  
 - 😄 Pronouns: Her/She.
 
 <div align="center">
