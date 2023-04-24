@@ -1,6 +1,6 @@
 #### Hi, i'm Beatriz Silva.. 👋
 
-- 🔭 I work with development mobile.
+- 🔭 I work with development fullstack.
 - 🌱 I'm studying Computer Science and I'm also studying Flutter.  
 - 😄 Pronouns: Her/She.
 
